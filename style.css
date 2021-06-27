@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    color: red;
+    background-color: aquamarine;
+}
+div{
+    margin-top: 15px;
+}
+img{
+    height: 200px;
+}
+p{
+    font-size: 30px;
+}
